@@ -1,0 +1,9 @@
+D:\Codes\TMGTFS\Marine\Marine\Clique\Clique\bin\Release\Clique.dll
+D:\Codes\TMGTFS\Marine\Marine\Clique\Clique\bin\Release\Clique.pdb
+D:\Codes\TMGTFS\Marine\Marine\Clique\Clique\obj\Release\Clique.dll
+D:\Codes\TMGTFS\Marine\Marine\Clique\Clique\obj\Release\Clique.pdb
+C:\Users\Phillip\Downloads\Clique\Clique\bin\Release\Clique.dll
+C:\Users\Phillip\Downloads\Clique\Clique\bin\Release\Clique.pdb
+C:\Users\Phillip\Downloads\Clique\Clique\obj\Release\Clique.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Downloads\Clique\Clique\obj\Release\Clique.dll
+C:\Users\Phillip\Downloads\Clique\Clique\obj\Release\Clique.pdb
